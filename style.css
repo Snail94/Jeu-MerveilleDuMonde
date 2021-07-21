@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400');
+
+:root {
+  --color-primary-500: #FFEB3B;
+  --color-primary-600: #FDD835;
+  --color-primary-900: #F57F17;
+  --color-secondary-500: #009688;
+  --color-secondary-900: #004D40;
+}
+@font-face {
+    font-family: "celtichd";
+    src: url("CELTICHD.woff") format('woff');
+}
+
+
+#.bs{
+ display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+
+.btnplay{
+	  font-family: celtichd;
+  position: relative;
+  display: inline-block;
+  margin: 0;
+  padding: 1.5rem 4.5rem;
+  background: var(--color-primary-500);
+  color: var(--color-secondary-900);
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: normal;
+  border: 0;
+  border-radius: 0.4rem;
+  box-shadow: -1px 1px 8px rgba(0, 0, 0, 0.4);
+  appearance: none;
+  cursor: pointer;
+  transition: background 250ms, box-shadow 250ms;
+}
+ .btnplay:hover {
+    background: var(--color-primary-600);
+    box-shadow: -2px 2px 16px rgba(0, 0, 0, 0.6);
+  }
+
+ .btnplay:active,
+ .btnplay:focus {
+    outline: none;
+  }
+
+  .btnplay:active {
+    box-shadow: -4px 4px 24px rgba(0, 0, 0, 0.8);
+  }
+}
+
+.btnplay .text {
+  position: relative;
+  z-index: 2;
+}
+
+.btnplay2{
+	  font-family: celtichd;
+  position: relative;
+  margin: 0;
+  padding: 1.5rem 4.5rem;
+  background: var(--color-primary-500);
+  color: var(--color-secondary-900);
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: normal;
+  border: 0;
+  border-radius: 0.4rem;
+  box-shadow: -1px 1px 8px rgba(0, 0, 0, 0.4);
+  appearance: none;
+  cursor: pointer;
+  transition: background 250ms, box-shadow 250ms;
+}
+ .btnplay2:hover {
+    background: var(--color-primary-600);
+    box-shadow: -2px 2px 16px rgba(0, 0, 0, 0.6);
+  }
+
+ .btnplay2:active,
+ .btnplay2:focus {
+    outline: none;
+  }
+
+  .btnplay2:active {
+    box-shadow: -4px 4px 24px rgba(0, 0, 0, 0.8);
+  }
+
+#mapid{
+  width: 100%;
+  margin-top: -3%;
+  height: 100em !important;
+  position: inherit !important;
+  z-index: 0;
+
+
+}
+#pane4 img{
+  height:280px;
+  width:200px;
+}
+#pane4{
+  background: var(--color-primary-500);
+  color: var(--color-secondary-900);
+  position: absolute;
+background: #ffeb3bb3 none repeat scroll 0% 0%;
+height: auto;
+width: 21%;
+left: 1%;
+top: 20%;
+font-size: 20px;
+text-align: center;
+
+}
+#pane2{
+  background: var(--color-primary-500);
+  color: var(--color-secondary-900);
+  position: absolute;
+  height: auto;
+   width: auto;
+    margin-left: 34%;
+    bottom:10%;
+    font-size:25px;
+    border-radius: 6px;
+}
+#pane6{
+  background: var(--color-primary-500);
+color: var(--color-secondary-900);
+position: absolute;
+height: auto;
+width: auto;
+margin-left: 34%;
+top: 10%;
+font-size: 25px;
+border-radius: 6px;
+}

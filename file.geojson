@@ -1,0 +1,105 @@
+[
+   {
+      "type": "FeatureCollection",
+      "features": [
+         {
+            "type": "Feature",
+            "geometry": {
+               "type": "Point",
+               "coordinates": [
+                  31.133888,29.97889
+               ]
+            },
+            "properties": {
+                 "name": "La pyramide de Kheops",
+               "description": "La pyramide de Khéops ou grande pyramide de Gizeh est un monument construit par les Égyptiens de l'Antiquité, formant une pyramide à base carrée. Tombeau présumé du pharaon Khéops, elle fut édifiée il y a plus de 4 500 ans.",
+               "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Pyramide_Kheops.JPG"
+            }
+         },
+         {
+            "type": "Feature",
+            "geometry": {
+               "type": "Point",
+               "coordinates": [
+                  44.42753,32.53554
+               ]
+            },
+            "properties": {
+               "name": "Les jardins suspendus de Babylone",
+               "description": "Les jardins suspendus de Babylone sont un édifice antique, considéré comme une des Sept Merveilles du monde antique.",
+               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hanging_Gardens_of_Babylon.jpg/280px-Hanging_Gardens_of_Babylon.jpg"
+            }
+         },
+         {
+            "type": "Feature",
+            "geometry": {
+               "type": "Point",
+               "coordinates": [
+                  21.63,38.6378
+               ]
+            },
+            "properties": {
+               "name": "La statue chryselephantine de Zeus",
+               "description": "La statue chryséléphantine de Zeus à Olympie est une œuvre du sculpteur athénien Phidias, réalisée vers 436 av. J.-C. à Olympie. Aujourd'hui disparue, elle était considérée dans l'Antiquité comme la troisième des Sept Merveilles du monde.",
+               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Le_Jupiter_Olympien_ou_l%27art_de_la_sculpture_antique.jpg/280px-Le_Jupiter_Olympien_ou_l%27art_de_la_sculpture_antique.jpg"
+            }
+         },
+         {
+            "type": "Feature",
+            "geometry": {
+               "type": "Point",
+               "coordinates": [
+                  27.3639,37.9497
+               ]
+            },
+            "properties": {
+               "name": "Le temple d Artemis",
+               "description": "Le temple d'Artémis à Éphèse1 (en grec Ἀρτεμίσιον / Artemísion, en latin Artemisium) est dans l'Antiquité l'un des plus importants sanctuaires d'Artémis, déesse grecque de la chasse et de la nature sauvage.",
+               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Miniaturk_009.jpg/280px-Miniaturk_009.jpg"
+            }
+         },
+         {
+            "type": "Feature",
+            "geometry": {
+               "type": "Point",
+               "coordinates": [
+                  27.42406,37.03794
+               ]
+            },
+            "properties": {
+               "name": "Le tombeau de Mausole",
+               "description": "Le mausolée d'Halicarnasse (en grec Μαυσωλεῖον / Mausôleĩon) est le tombeau de Mausole, satrape perse achéménide de Carie (Asie Mineure), mort en 353 av. J.-C.. Il était considéré dans l'Antiquité comme la cinquième des Sept Merveilles du monde.",
+               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Mausoleum_of_Halicarnassus.jpg/280px-Mausoleum_of_Halicarnassus.jpg"
+            }
+         },
+         {
+            "type": "Feature",
+            "geometry": {
+               "type": "Point",
+               "coordinates": [
+                  28.2278,36.4511
+               ]
+            },
+            "properties": {
+               "name": "Le colosse de Rhodes",
+               "description": "Le colosse de Rhodes était une statue d'Hélios, le dieu Soleil, en bronze, dont la hauteur dépassait trente mètres, œuvre de Charès de Lindos. Elle était considérée dans l'Antiquité comme la sixième des Sept Merveilles du monde.",
+               "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rhodes0211.jpg"
+            }
+         },
+         {
+            "type": "Feature",
+            "geometry": {
+               "type": "Point",
+               "coordinates": [
+                  29.885,31.2142
+               ]
+            },
+            "properties": {
+               "name": "La tour de Pharos",
+               "description": "Le phare d'Alexandrie (du grec ancien ὁ Φάρος τῆς Ἀλεξανδρείας). Il était considéré dans l'Antiquité comme la septième des Sept Merveilles du monde. Il a servi de guide aux marins pendant près de dix-sept siècles (du iiie siècle av. J.-C. au xive siècle). Sa construction aurait débuté entre -299 et -289 (la date exacte est inconnue) et duré une quinzaine d'années. Les travaux sont commencés par Ptolémée Ier mais il meurt avant la fin du chantier qui est achevé sous le règne de son fils Ptolémée II.",
+               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/PHAROS2006.jpg/265px-PHAROS2006.jpg"
+            }
+         }
+      ]
+   }
+]
